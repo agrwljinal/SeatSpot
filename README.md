@@ -39,15 +39,15 @@ SeatSpot is an Android application designed to streamline seat booking for the I
 
 ## 📂 Project Structure
 
----
-
-app/ → Main application source code
-gradle/ → Build configuration
+- `app/` → Main application source code  
+- `gradle/` → Build configuration  
 
 ## ▶️ How to Run
 
 ```bash
 git clone https://github.com/agrwljinal/SeatSpot.git
 
-Open in Android Studio
-Run on emulator or physical device
+- Open in Android Studio  
+- Run on emulator or physical device  
+
+---
