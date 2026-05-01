@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777449733691",
+    "project_id": "smartlab-32e6f",
+    "storage_bucket": "smartlab-32e6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777449733691:android:9579e3107be575224c261e",
+        "android_client_info": {
+          "package_name": "com.spot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Xlnng-hm-l1cP55d0yDQD5qxUdrF7gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
